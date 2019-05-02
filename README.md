@@ -33,5 +33,6 @@ Mapfre3,soynombrecap3,soyemailmapfre3,soyemailcap3,2015-12-2,2019-03-01
 
 4. Execute `ScriptForLogs.exe`
 
-This script will download all the logs of every repository specified in `repositorios.txt` for every user of `datos.txt`
+This script will download all the logs of every repository specified in `repositorios.txt` for every user of `datos.txt`.
+Also, `UserMapfre` will be replaced by `UserCap` and `EmailMapfre` will be replaced by `EmailCap`.
 The resulting logs will be downloaded to the same repository in html format.
