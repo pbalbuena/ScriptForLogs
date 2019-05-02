@@ -21,7 +21,7 @@ C:\Users\pgonzal2\source\repos\Repo4
 
 `<UserMapfre>,<UserCap>,<EmailMapfre>,<EmailCap>,[Optional]<BeginDate>,[Optional]<EndDate>`
 
-Date formate must be yyyy-MM-dd
+Date format must be yyyy-MM-dd
 
 If no dates are selected, it will get only from last month until today.
 
