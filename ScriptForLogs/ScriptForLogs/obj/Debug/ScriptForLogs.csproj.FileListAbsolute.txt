@@ -1,0 +1,9 @@
+C:\Users\pgonzal2\source\repos\ScriptForLogs\ScriptForLogs\bin\Debug\ScriptForLogs.exe.config
+C:\Users\pgonzal2\source\repos\ScriptForLogs\ScriptForLogs\bin\Debug\ScriptForLogs.exe
+C:\Users\pgonzal2\source\repos\ScriptForLogs\ScriptForLogs\bin\Debug\ScriptForLogs.pdb
+C:\Users\pgonzal2\source\repos\ScriptForLogs\ScriptForLogs\bin\Debug\EPPlus.dll
+C:\Users\pgonzal2\source\repos\ScriptForLogs\ScriptForLogs\bin\Debug\EPPlus.xml
+C:\Users\pgonzal2\source\repos\ScriptForLogs\ScriptForLogs\obj\Debug\ScriptForLogs.csproj.CoreCompileInputs.cache
+C:\Users\pgonzal2\source\repos\ScriptForLogs\ScriptForLogs\obj\Debug\ScriptForLogs.csproj.CopyComplete
+C:\Users\pgonzal2\source\repos\ScriptForLogs\ScriptForLogs\obj\Debug\ScriptForLogs.exe
+C:\Users\pgonzal2\source\repos\ScriptForLogs\ScriptForLogs\obj\Debug\ScriptForLogs.pdb
