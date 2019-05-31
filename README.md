@@ -35,4 +35,5 @@ Mapfre3,soynombrecap3,soyemailmapfre3,soyemailcap3,2015-12-2,2019-03-01
 
 This script will download all the logs of every repository specified in `repositorios.txt` for every user of `datos.txt`.
 Also, `UserMapfre` will be replaced by `UserCap` and `EmailMapfre` will be replaced by `EmailCap`.
+Also, all traces of Mapfre and InsureAndGo will be deleted.
 The resulting logs will be downloaded to the same repository in html format.
